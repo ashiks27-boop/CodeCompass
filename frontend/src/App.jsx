@@ -188,7 +188,7 @@ function App() {
         <div className="p-4 border-b border-emerald-900/30 flex items-center justify-between">
           <div className="flex items-center gap-2 text-emerald-400 font-bold text-lg cursor-pointer" onClick={startNewProject}>
             <Rocket className="w-5 h-5 text-emerald-500 drop-shadow-[0_0_10px_rgba(16,185,129,0.8)]" />
-            <span className="truncate tracking-wide">Project Pilot</span>
+            <span className="truncate tracking-wide">CodeCompass</span>
           </div>
           <button onClick={() => setIsSidebarOpen(false)} className="lg:hidden text-emerald-400 hover:text-emerald-300 p-1">
             <PanelLeft className="w-5 h-5" />
@@ -475,7 +475,7 @@ function App() {
                 </button>
               </div>
               <p className="text-center text-xs text-emerald-800/60 mt-4 tracking-wide">
-                Project Pilot can provide code snippets, debug errors, or explain architecture details.
+                CodeCompass can provide code snippets, debug errors, or explain architecture details.
               </p>
             </div>
           </form>

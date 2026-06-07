@@ -62,7 +62,7 @@ def chat():
         return jsonify({"error": "Missing context or question in request body"}), 400
 
     prompt = f"""
-    You are Project Pilot, a senior software architect and mentor. 
+    You are CodeCompass, a senior software architect and mentor. 
     The user has a generated project blueprint context below:
     
     --- BLUEPRINT CONTEXT START ---
