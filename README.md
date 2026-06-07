@@ -1,4 +1,4 @@
-# ProjectPilot AI – AI-Powered Project Mentor for Students
+# PCodeCompass– AI-Powered Project Mentor for Students
 
 ProjectPilot AI acts as a virtual project mentor, helping students overcome the struggle of choosing project ideas, selecting tech stacks, and planning development stages. 
 
